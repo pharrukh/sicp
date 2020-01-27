@@ -5,3 +5,9 @@
 
 [logo]: https://github.com/pharrukh/sicp/raw/master/docs/SICP_cover.jpg "Structure and Interpretation of Computer Programs"
 
+## How to run files
+
+```shell
+scheme --load helloworld.scm
+```
+
